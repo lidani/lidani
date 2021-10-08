@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **lidani/lidani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- Desenvolvedor Web Fullstack, iOS e Android
+- Atualmente trabalhando na Smallsoft Tecnologia, desenvolvendo o smallsaas.com.br
+- Atualmente contribuindo com a nfephp-org, implementando e aprimorando projetos relacionados a Documentos Fiscais.
