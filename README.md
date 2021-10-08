@@ -13,6 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Bem vindo ao meu perfil
+
 - Desenvolvedor Web Fullstack, iOS e Android
 - Atualmente trabalhando na Smallsoft Tecnologia, desenvolvendo o smallsaas.com.br
 - Atualmente contribuindo com a nfephp-org, implementando e aprimorando projetos relacionados a Documentos Fiscais.
+
+### Sou apaixonado por Pink Floyd
+
+![dark-side-of-the-moon](/img/dark-side-of-the-moon.gif)
