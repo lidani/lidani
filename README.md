@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - Atualmente trabalhando na Smallsoft Tecnologia, desenvolvendo o smallsaas.com.br
 - Atualmente contribuindo com a nfephp-org, implementando e aprimorando projetos relacionados a Documentos Fiscais.
 
-![dark-side-of-the-moon](/img/dark-side-of-the-moon.gif)
+![dark-side-of-the-moon](/img/dark-side.gif)
